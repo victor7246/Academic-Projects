@@ -1,0 +1,1351 @@
+C+AF8-ID,Brand,Channel,Samsung,Sony,Camera+AF8-med,Camera+AF8-high,Proc+AF8-med,Proc+AF8-high,Screen+AF8-mid,Screen+AF8-high,Memory+AF8-med,Memory+AF8-high,Price+AF8-med,Price+AF8-high,Price+AF8-veryhigh,Rating
+1,Depends on the product not brand,Electronics store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+1,Depends on the product not brand,Electronics store,0,0,0,0,1,0,1,0,0,0,0,0,1,1
+1,Depends on the product not brand,Electronics store,1,0,0,1,0,1,0,0,1,0,1,0,0,4
+1,Depends on the product not brand,Electronics store,1,0,0,1,0,1,1,0,1,0,1,0,0,4
+1,Depends on the product not brand,Electronics store,0,0,0,0,0,0,1,0,1,0,0,0,0,5
+1,Depends on the product not brand,Electronics store,0,0,1,0,1,0,0,0,1,0,0,0,1,1
+1,Depends on the product not brand,Electronics store,0,1,0,1,0,0,0,1,1,0,1,0,0,2
+1,Depends on the product not brand,Electronics store,0,0,1,0,0,1,1,0,0,1,1,0,0,5
+1,Depends on the product not brand,Electronics store,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+1,Depends on the product not brand,Electronics store,0,0,1,0,0,0,1,0,1,0,0,0,1,1
+1,Depends on the product not brand,Electronics store,0,1,0,0,0,1,0,1,0,0,0,0,0,4
+1,Depends on the product not brand,Electronics store,0,1,0,0,0,0,1,0,1,0,0,0,0,4
+1,Depends on the product not brand,Electronics store,1,0,1,0,0,1,0,1,0,1,0,0,1,1
+1,Depends on the product not brand,Electronics store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+1,Depends on the product not brand,Electronics store,0,0,1,0,1,0,0,0,1,0,1,0,0,5
+2,Apple,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+2,Apple,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,2
+2,Apple,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,4
+2,Apple,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,5
+2,Apple,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,5
+2,Apple,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+2,Apple,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+2,Apple,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+2,Apple,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,3
+2,Apple,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+2,Apple,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,4
+2,Apple,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,3
+2,Apple,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,3
+2,Apple,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,5
+2,Apple,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,5
+3,Samsung,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+3,Samsung,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,1
+3,Samsung,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+3,Samsung,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,4
+3,Samsung,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+3,Samsung,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+3,Samsung,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+3,Samsung,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,2
+3,Samsung,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+3,Samsung,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+3,Samsung,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,1
+3,Samsung,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,1
+3,Samsung,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,3
+3,Samsung,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,2
+3,Samsung,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,2
+4,Depends on the product not brand,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,1
+4,Depends on the product not brand,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,1
+4,Depends on the product not brand,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,1
+4,Depends on the product not brand,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,2
+4,Depends on the product not brand,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+4,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,1
+4,Depends on the product not brand,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,2
+4,Depends on the product not brand,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+4,Depends on the product not brand,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+4,Depends on the product not brand,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,1
+4,Depends on the product not brand,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,1
+4,Depends on the product not brand,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,1
+4,Depends on the product not brand,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,4
+4,Depends on the product not brand,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,3
+4,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,1
+5,Depends on the product not brand,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+5,Depends on the product not brand,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,4
+5,Depends on the product not brand,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,4
+5,Depends on the product not brand,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+5,Depends on the product not brand,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,2
+5,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,3
+5,Depends on the product not brand,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,4
+5,Depends on the product not brand,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,2
+5,Depends on the product not brand,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+5,Depends on the product not brand,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,5
+5,Depends on the product not brand,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,4
+5,Depends on the product not brand,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,3
+5,Depends on the product not brand,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,4
+5,Depends on the product not brand,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,2
+5,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,2
+6,Others,Authorized Retail Store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+6,Others,Authorized Retail Store,0,0,0,0,1,0,1,0,0,0,0,0,1,1
+6,Others,Authorized Retail Store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+6,Others,Authorized Retail Store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+6,Others,Authorized Retail Store,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+6,Others,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+6,Others,Authorized Retail Store,0,1,0,1,0,0,0,1,1,0,1,0,0,5
+6,Others,Authorized Retail Store,0,0,1,0,0,1,1,0,0,1,1,0,0,3
+6,Others,Authorized Retail Store,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+6,Others,Authorized Retail Store,0,0,1,0,0,0,1,0,1,0,0,0,1,1
+6,Others,Authorized Retail Store,0,1,0,0,0,1,0,1,0,0,0,0,0,1
+6,Others,Authorized Retail Store,0,1,0,0,0,0,1,0,1,0,0,0,0,2
+6,Others,Authorized Retail Store,1,0,1,0,0,1,0,1,0,1,0,0,1,1
+6,Others,Authorized Retail Store,0,1,1,0,1,0,1,0,0,0,0,0,0,2
+6,Others,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,1,0,0,1
+7,Others,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+7,Others,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,3
+7,Others,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,5
+7,Others,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,5
+7,Others,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+7,Others,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+7,Others,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+7,Others,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,5
+7,Others,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,3
+7,Others,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,3
+7,Others,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,4
+7,Others,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,3
+7,Others,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,3
+7,Others,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+7,Others,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+8,Others,Electronics store,0,1,1,0,1,0,0,1,1,0,0,1,0,1
+8,Others,Electronics store,0,0,0,0,1,0,1,0,0,0,0,0,1,1
+8,Others,Electronics store,1,0,0,1,0,1,0,0,1,0,1,0,0,1
+8,Others,Electronics store,1,0,0,1,0,1,1,0,1,0,1,0,0,1
+8,Others,Electronics store,0,0,0,0,0,0,1,0,1,0,0,0,0,3
+8,Others,Electronics store,0,0,1,0,1,0,0,0,1,0,0,0,1,1
+8,Others,Electronics store,0,1,0,1,0,0,0,1,1,0,1,0,0,1
+8,Others,Electronics store,0,0,1,0,0,1,1,0,0,1,1,0,0,1
+8,Others,Electronics store,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+8,Others,Electronics store,0,0,1,0,0,0,1,0,1,0,0,0,1,1
+8,Others,Electronics store,0,1,0,0,0,1,0,1,0,0,0,0,0,1
+8,Others,Electronics store,0,1,0,0,0,0,1,0,1,0,0,0,0,2
+8,Others,Electronics store,1,0,1,0,0,1,0,1,0,1,0,0,1,1
+8,Others,Electronics store,0,1,1,0,1,0,1,0,0,0,0,0,0,2
+8,Others,Electronics store,0,0,1,0,1,0,0,0,1,0,1,0,0,2
+9,Others,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+9,Others,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,4
+9,Others,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,2
+9,Others,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+9,Others,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,5
+9,Others,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,4
+9,Others,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+9,Others,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,5
+9,Others,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+9,Others,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,5
+9,Others,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,3
+9,Others,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,3
+9,Others,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,2
+9,Others,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+9,Others,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,5
+10,Apple,Authorized Retail Store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+10,Apple,Authorized Retail Store,0,0,0,0,1,0,1,0,0,0,0,0,1,4
+10,Apple,Authorized Retail Store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+10,Apple,Authorized Retail Store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+10,Apple,Authorized Retail Store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+10,Apple,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,0,0,1,3
+10,Apple,Authorized Retail Store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+10,Apple,Authorized Retail Store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+10,Apple,Authorized Retail Store,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+10,Apple,Authorized Retail Store,0,0,1,0,0,0,1,0,1,0,0,0,1,3
+10,Apple,Authorized Retail Store,0,1,0,0,0,1,0,1,0,0,0,0,0,4
+10,Apple,Authorized Retail Store,0,1,0,0,0,0,1,0,1,0,0,0,0,4
+10,Apple,Authorized Retail Store,1,0,1,0,0,1,0,1,0,1,0,0,1,1
+10,Apple,Authorized Retail Store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+10,Apple,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+11,Depends on the product not brand,Electronics store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+11,Depends on the product not brand,Electronics store,0,0,0,0,1,0,1,0,0,0,0,0,1,3
+11,Depends on the product not brand,Electronics store,1,0,0,1,0,1,0,0,1,0,1,0,0,4
+11,Depends on the product not brand,Electronics store,1,0,0,1,0,1,1,0,1,0,1,0,0,4
+11,Depends on the product not brand,Electronics store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+11,Depends on the product not brand,Electronics store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+11,Depends on the product not brand,Electronics store,0,1,0,1,0,0,0,1,1,0,1,0,0,2
+11,Depends on the product not brand,Electronics store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+11,Depends on the product not brand,Electronics store,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+11,Depends on the product not brand,Electronics store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+11,Depends on the product not brand,Electronics store,0,1,0,0,0,1,0,1,0,0,0,0,0,4
+11,Depends on the product not brand,Electronics store,0,1,0,0,0,0,1,0,1,0,0,0,0,3
+11,Depends on the product not brand,Electronics store,1,0,1,0,0,1,0,1,0,1,0,0,1,1
+11,Depends on the product not brand,Electronics store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+11,Depends on the product not brand,Electronics store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+12,Others,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+12,Others,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,1
+12,Others,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+12,Others,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+12,Others,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+12,Others,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,1
+12,Others,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,1
+12,Others,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+12,Others,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+12,Others,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+12,Others,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,5
+12,Others,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,4
+12,Others,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,1
+12,Others,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,5
+12,Others,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+13,Apple,Authorized Retail Store,0,1,1,0,1,0,0,1,1,0,0,1,0,4
+13,Apple,Authorized Retail Store,0,0,0,0,1,0,1,0,0,0,0,0,1,2
+13,Apple,Authorized Retail Store,1,0,0,1,0,1,0,0,1,0,1,0,0,2
+13,Apple,Authorized Retail Store,1,0,0,1,0,1,1,0,1,0,1,0,0,4
+13,Apple,Authorized Retail Store,0,0,0,0,0,0,1,0,1,0,0,0,0,2
+13,Apple,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,0,0,1,1
+13,Apple,Authorized Retail Store,0,1,0,1,0,0,0,1,1,0,1,0,0,4
+13,Apple,Authorized Retail Store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+13,Apple,Authorized Retail Store,1,0,0,0,1,0,0,1,1,0,0,0,1,3
+13,Apple,Authorized Retail Store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+13,Apple,Authorized Retail Store,0,1,0,0,0,1,0,1,0,0,0,0,0,3
+13,Apple,Authorized Retail Store,0,1,0,0,0,0,1,0,1,0,0,0,0,4
+13,Apple,Authorized Retail Store,1,0,1,0,0,1,0,1,0,1,0,0,1,2
+13,Apple,Authorized Retail Store,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+13,Apple,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+14,Others,Authorized Retail Store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+14,Others,Authorized Retail Store,0,0,0,0,1,0,1,0,0,0,0,0,1,1
+14,Others,Authorized Retail Store,1,0,0,1,0,1,0,0,1,0,1,0,0,2
+14,Others,Authorized Retail Store,1,0,0,1,0,1,1,0,1,0,1,0,0,2
+14,Others,Authorized Retail Store,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+14,Others,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,0,0,1,1
+14,Others,Authorized Retail Store,0,1,0,1,0,0,0,1,1,0,1,0,0,1
+14,Others,Authorized Retail Store,0,0,1,0,0,1,1,0,0,1,1,0,0,1
+14,Others,Authorized Retail Store,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+14,Others,Authorized Retail Store,0,0,1,0,0,0,1,0,1,0,0,0,1,1
+14,Others,Authorized Retail Store,0,1,0,0,0,1,0,1,0,0,0,0,0,1
+14,Others,Authorized Retail Store,0,1,0,0,0,0,1,0,1,0,0,0,0,1
+14,Others,Authorized Retail Store,1,0,1,0,0,1,0,1,0,1,0,0,1,1
+14,Others,Authorized Retail Store,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+14,Others,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,1,0,0,1
+15,Others,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,4
+15,Others,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,4
+15,Others,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,4
+15,Others,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,4
+15,Others,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,5
+15,Others,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,3
+15,Others,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+15,Others,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+15,Others,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,3
+15,Others,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,3
+15,Others,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,3
+15,Others,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,3
+15,Others,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,4
+15,Others,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,3
+15,Others,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,5
+16,Others,Authorized Retail Store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+16,Others,Authorized Retail Store,0,0,0,0,1,0,1,0,0,0,0,0,1,1
+16,Others,Authorized Retail Store,1,0,0,1,0,1,0,0,1,0,1,0,0,1
+16,Others,Authorized Retail Store,1,0,0,1,0,1,1,0,1,0,1,0,0,2
+16,Others,Authorized Retail Store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+16,Others,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+16,Others,Authorized Retail Store,0,1,0,1,0,0,0,1,1,0,1,0,0,2
+16,Others,Authorized Retail Store,0,0,1,0,0,1,1,0,0,1,1,0,0,3
+16,Others,Authorized Retail Store,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+16,Others,Authorized Retail Store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+16,Others,Authorized Retail Store,0,1,0,0,0,1,0,1,0,0,0,0,0,2
+16,Others,Authorized Retail Store,0,1,0,0,0,0,1,0,1,0,0,0,0,4
+16,Others,Authorized Retail Store,1,0,1,0,0,1,0,1,0,1,0,0,1,1
+16,Others,Authorized Retail Store,0,1,1,0,1,0,1,0,0,0,0,0,0,3
+16,Others,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,1,0,0,3
+17,Apple,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+17,Apple,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,4
+17,Apple,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+17,Apple,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,4
+17,Apple,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+17,Apple,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,4
+17,Apple,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+17,Apple,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+17,Apple,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,3
+17,Apple,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,4
+17,Apple,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,4
+17,Apple,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,4
+17,Apple,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,3
+17,Apple,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,3
+17,Apple,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+18,Apple,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+18,Apple,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,2
+18,Apple,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+18,Apple,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+18,Apple,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+18,Apple,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+18,Apple,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+18,Apple,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,5
+18,Apple,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+18,Apple,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,1
+18,Apple,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,1
+18,Apple,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,5
+18,Apple,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,1
+18,Apple,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+18,Apple,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,5
+19,Depends on the product not brand,Authorized Retail Store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+19,Depends on the product not brand,Authorized Retail Store,0,0,0,0,1,0,1,0,0,0,0,0,1,3
+19,Depends on the product not brand,Authorized Retail Store,1,0,0,1,0,1,0,0,1,0,1,0,0,5
+19,Depends on the product not brand,Authorized Retail Store,1,0,0,1,0,1,1,0,1,0,1,0,0,5
+19,Depends on the product not brand,Authorized Retail Store,0,0,0,0,0,0,1,0,1,0,0,0,0,5
+19,Depends on the product not brand,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,0,0,1,4
+19,Depends on the product not brand,Authorized Retail Store,0,1,0,1,0,0,0,1,1,0,1,0,0,4
+19,Depends on the product not brand,Authorized Retail Store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+19,Depends on the product not brand,Authorized Retail Store,1,0,0,0,1,0,0,1,1,0,0,0,1,5
+19,Depends on the product not brand,Authorized Retail Store,0,0,1,0,0,0,1,0,1,0,0,0,1,3
+19,Depends on the product not brand,Authorized Retail Store,0,1,0,0,0,1,0,1,0,0,0,0,0,4
+19,Depends on the product not brand,Authorized Retail Store,0,1,0,0,0,0,1,0,1,0,0,0,0,5
+19,Depends on the product not brand,Authorized Retail Store,1,0,1,0,0,1,0,1,0,1,0,0,1,4
+19,Depends on the product not brand,Authorized Retail Store,0,1,1,0,1,0,1,0,0,0,0,0,0,5
+19,Depends on the product not brand,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+20,Apple,Authorized Retail Store,0,1,1,0,1,0,0,1,1,0,0,1,0,4
+20,Apple,Authorized Retail Store,0,0,0,0,1,0,1,0,0,0,0,0,1,5
+20,Apple,Authorized Retail Store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+20,Apple,Authorized Retail Store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+20,Apple,Authorized Retail Store,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+20,Apple,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,0,0,1,5
+20,Apple,Authorized Retail Store,0,1,0,1,0,0,0,1,1,0,1,0,0,2
+20,Apple,Authorized Retail Store,0,0,1,0,0,1,1,0,0,1,1,0,0,3
+20,Apple,Authorized Retail Store,1,0,0,0,1,0,0,1,1,0,0,0,1,5
+20,Apple,Authorized Retail Store,0,0,1,0,0,0,1,0,1,0,0,0,1,5
+20,Apple,Authorized Retail Store,0,1,0,0,0,1,0,1,0,0,0,0,0,1
+20,Apple,Authorized Retail Store,0,1,0,0,0,0,1,0,1,0,0,0,0,1
+20,Apple,Authorized Retail Store,1,0,1,0,0,1,0,1,0,1,0,0,1,5
+20,Apple,Authorized Retail Store,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+20,Apple,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,1,0,0,3
+21,Depends on the product not brand,Electronics store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+21,Depends on the product not brand,Electronics store,0,0,0,0,1,0,1,0,0,0,0,0,1,1
+21,Depends on the product not brand,Electronics store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+21,Depends on the product not brand,Electronics store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+21,Depends on the product not brand,Electronics store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+21,Depends on the product not brand,Electronics store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+21,Depends on the product not brand,Electronics store,0,1,0,1,0,0,0,1,1,0,1,0,0,1
+21,Depends on the product not brand,Electronics store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+21,Depends on the product not brand,Electronics store,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+21,Depends on the product not brand,Electronics store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+21,Depends on the product not brand,Electronics store,0,1,0,0,0,1,0,1,0,0,0,0,0,3
+21,Depends on the product not brand,Electronics store,0,1,0,0,0,0,1,0,1,0,0,0,0,4
+21,Depends on the product not brand,Electronics store,1,0,1,0,0,1,0,1,0,1,0,0,1,1
+21,Depends on the product not brand,Electronics store,0,1,1,0,1,0,1,0,0,0,0,0,0,3
+21,Depends on the product not brand,Electronics store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+22,Depends on the product not brand,Authorized Retail Store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+22,Depends on the product not brand,Authorized Retail Store,0,0,0,0,1,0,1,0,0,0,0,0,1,3
+22,Depends on the product not brand,Authorized Retail Store,1,0,0,1,0,1,0,0,1,0,1,0,0,4
+22,Depends on the product not brand,Authorized Retail Store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+22,Depends on the product not brand,Authorized Retail Store,0,0,0,0,0,0,1,0,1,0,0,0,0,3
+22,Depends on the product not brand,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+22,Depends on the product not brand,Authorized Retail Store,0,1,0,1,0,0,0,1,1,0,1,0,0,4
+22,Depends on the product not brand,Authorized Retail Store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+22,Depends on the product not brand,Authorized Retail Store,1,0,0,0,1,0,0,1,1,0,0,0,1,4
+22,Depends on the product not brand,Authorized Retail Store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+22,Depends on the product not brand,Authorized Retail Store,0,1,0,0,0,1,0,1,0,0,0,0,0,3
+22,Depends on the product not brand,Authorized Retail Store,0,1,0,0,0,0,1,0,1,0,0,0,0,2
+22,Depends on the product not brand,Authorized Retail Store,1,0,1,0,0,1,0,1,0,1,0,0,1,4
+22,Depends on the product not brand,Authorized Retail Store,0,1,1,0,1,0,1,0,0,0,0,0,0,2
+22,Depends on the product not brand,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,1,0,0,3
+23,Depends on the product not brand,Authorized Retail Store,0,1,1,0,1,0,0,1,1,0,0,1,0,1
+23,Depends on the product not brand,Authorized Retail Store,0,0,0,0,1,0,1,0,0,0,0,0,1,1
+23,Depends on the product not brand,Authorized Retail Store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+23,Depends on the product not brand,Authorized Retail Store,1,0,0,1,0,1,1,0,1,0,1,0,0,2
+23,Depends on the product not brand,Authorized Retail Store,0,0,0,0,0,0,1,0,1,0,0,0,0,2
+23,Depends on the product not brand,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,0,0,1,1
+23,Depends on the product not brand,Authorized Retail Store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+23,Depends on the product not brand,Authorized Retail Store,0,0,1,0,0,1,1,0,0,1,1,0,0,2
+23,Depends on the product not brand,Authorized Retail Store,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+23,Depends on the product not brand,Authorized Retail Store,0,0,1,0,0,0,1,0,1,0,0,0,1,1
+23,Depends on the product not brand,Authorized Retail Store,0,1,0,0,0,1,0,1,0,0,0,0,0,1
+23,Depends on the product not brand,Authorized Retail Store,0,1,0,0,0,0,1,0,1,0,0,0,0,1
+23,Depends on the product not brand,Authorized Retail Store,1,0,1,0,0,1,0,1,0,1,0,0,1,1
+23,Depends on the product not brand,Authorized Retail Store,0,1,1,0,1,0,1,0,0,0,0,0,0,2
+23,Depends on the product not brand,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,1,0,0,2
+24,Apple,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+24,Apple,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,5
+24,Apple,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,4
+24,Apple,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,4
+24,Apple,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,5
+24,Apple,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,5
+24,Apple,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+24,Apple,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,5
+24,Apple,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+24,Apple,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+24,Apple,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,4
+24,Apple,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,3
+24,Apple,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,2
+24,Apple,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+24,Apple,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,5
+25,Apple,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,4
+25,Apple,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,5
+25,Apple,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+25,Apple,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,4
+25,Apple,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,5
+25,Apple,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,5
+25,Apple,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,5
+25,Apple,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,5
+25,Apple,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,5
+25,Apple,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,3
+25,Apple,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,4
+25,Apple,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,4
+25,Apple,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,3
+25,Apple,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,2
+25,Apple,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,5
+26,Others,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+26,Others,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,2
+26,Others,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,4
+26,Others,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+26,Others,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,2
+26,Others,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,4
+26,Others,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,2
+26,Others,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,3
+26,Others,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+26,Others,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+26,Others,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,2
+26,Others,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,3
+26,Others,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,4
+26,Others,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,3
+26,Others,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,3
+27,Depends on the product not brand,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+27,Depends on the product not brand,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,4
+27,Depends on the product not brand,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+27,Depends on the product not brand,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+27,Depends on the product not brand,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,5
+27,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,3
+27,Depends on the product not brand,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,5
+27,Depends on the product not brand,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,5
+27,Depends on the product not brand,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,4
+27,Depends on the product not brand,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,5
+27,Depends on the product not brand,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,5
+27,Depends on the product not brand,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,4
+27,Depends on the product not brand,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,4
+27,Depends on the product not brand,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+27,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+28,Apple,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+28,Apple,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,2
+28,Apple,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+28,Apple,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+28,Apple,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+28,Apple,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,3
+28,Apple,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,2
+28,Apple,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,5
+28,Apple,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+28,Apple,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+28,Apple,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,3
+28,Apple,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,2
+28,Apple,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,3
+28,Apple,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,3
+28,Apple,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+29,Depends on the product not brand,Authorized Retail Store,0,1,1,0,1,0,0,1,1,0,0,1,0,4
+29,Depends on the product not brand,Authorized Retail Store,0,0,0,0,1,0,1,0,0,0,0,0,1,2
+29,Depends on the product not brand,Authorized Retail Store,1,0,0,1,0,1,0,0,1,0,1,0,0,5
+29,Depends on the product not brand,Authorized Retail Store,1,0,0,1,0,1,1,0,1,0,1,0,0,4
+29,Depends on the product not brand,Authorized Retail Store,0,0,0,0,0,0,1,0,1,0,0,0,0,3
+29,Depends on the product not brand,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+29,Depends on the product not brand,Authorized Retail Store,0,1,0,1,0,0,0,1,1,0,1,0,0,2
+29,Depends on the product not brand,Authorized Retail Store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+29,Depends on the product not brand,Authorized Retail Store,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+29,Depends on the product not brand,Authorized Retail Store,0,0,1,0,0,0,1,0,1,0,0,0,1,1
+29,Depends on the product not brand,Authorized Retail Store,0,1,0,0,0,1,0,1,0,0,0,0,0,5
+29,Depends on the product not brand,Authorized Retail Store,0,1,0,0,0,0,1,0,1,0,0,0,0,5
+29,Depends on the product not brand,Authorized Retail Store,1,0,1,0,0,1,0,1,0,1,0,0,1,3
+29,Depends on the product not brand,Authorized Retail Store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+29,Depends on the product not brand,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,1,0,0,3
+30,Depends on the product not brand,Electronics store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+30,Depends on the product not brand,Electronics store,0,0,0,0,1,0,1,0,0,0,0,0,1,2
+30,Depends on the product not brand,Electronics store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+30,Depends on the product not brand,Electronics store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+30,Depends on the product not brand,Electronics store,0,0,0,0,0,0,1,0,1,0,0,0,0,3
+30,Depends on the product not brand,Electronics store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+30,Depends on the product not brand,Electronics store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+30,Depends on the product not brand,Electronics store,0,0,1,0,0,1,1,0,0,1,1,0,0,3
+30,Depends on the product not brand,Electronics store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+30,Depends on the product not brand,Electronics store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+30,Depends on the product not brand,Electronics store,0,1,0,0,0,1,0,1,0,0,0,0,0,1
+30,Depends on the product not brand,Electronics store,0,1,0,0,0,0,1,0,1,0,0,0,0,1
+30,Depends on the product not brand,Electronics store,1,0,1,0,0,1,0,1,0,1,0,0,1,2
+30,Depends on the product not brand,Electronics store,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+30,Depends on the product not brand,Electronics store,0,0,1,0,1,0,0,0,1,0,1,0,0,3
+31,Others,Authorized Retail Store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+31,Others,Authorized Retail Store,0,0,0,0,1,0,1,0,0,0,0,0,1,3
+31,Others,Authorized Retail Store,1,0,0,1,0,1,0,0,1,0,1,0,0,4
+31,Others,Authorized Retail Store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+31,Others,Authorized Retail Store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+31,Others,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,0,0,1,4
+31,Others,Authorized Retail Store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+31,Others,Authorized Retail Store,0,0,1,0,0,1,1,0,0,1,1,0,0,3
+31,Others,Authorized Retail Store,1,0,0,0,1,0,0,1,1,0,0,0,1,3
+31,Others,Authorized Retail Store,0,0,1,0,0,0,1,0,1,0,0,0,1,3
+31,Others,Authorized Retail Store,0,1,0,0,0,1,0,1,0,0,0,0,0,4
+31,Others,Authorized Retail Store,0,1,0,0,0,0,1,0,1,0,0,0,0,4
+31,Others,Authorized Retail Store,1,0,1,0,0,1,0,1,0,1,0,0,1,3
+31,Others,Authorized Retail Store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+31,Others,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,1,0,0,3
+32,Samsung,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+32,Samsung,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,3
+32,Samsung,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,4
+32,Samsung,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,4
+32,Samsung,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+32,Samsung,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+32,Samsung,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+32,Samsung,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+32,Samsung,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+32,Samsung,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+32,Samsung,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,4
+32,Samsung,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,3
+32,Samsung,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,2
+32,Samsung,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+32,Samsung,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,3
+33,Others,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,4
+33,Others,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,3
+33,Others,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+33,Others,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,4
+33,Others,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,3
+33,Others,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,3
+33,Others,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,2
+33,Others,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,2
+33,Others,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+33,Others,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,4
+33,Others,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,3
+33,Others,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,3
+33,Others,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,3
+33,Others,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+33,Others,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+34,Others,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,1
+34,Others,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,1
+34,Others,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+34,Others,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+34,Others,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+34,Others,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,1
+34,Others,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+34,Others,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+34,Others,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+34,Others,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,1
+34,Others,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,4
+34,Others,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,3
+34,Others,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,1
+34,Others,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+34,Others,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,2
+35,Samsung,Authorized Retail Store,0,1,1,0,1,0,0,1,1,0,0,1,0,1
+35,Samsung,Authorized Retail Store,0,0,0,0,1,0,1,0,0,0,0,0,1,1
+35,Samsung,Authorized Retail Store,1,0,0,1,0,1,0,0,1,0,1,0,0,4
+35,Samsung,Authorized Retail Store,1,0,0,1,0,1,1,0,1,0,1,0,0,5
+35,Samsung,Authorized Retail Store,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+35,Samsung,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,0,0,1,1
+35,Samsung,Authorized Retail Store,0,1,0,1,0,0,0,1,1,0,1,0,0,1
+35,Samsung,Authorized Retail Store,0,0,1,0,0,1,1,0,0,1,1,0,0,1
+35,Samsung,Authorized Retail Store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+35,Samsung,Authorized Retail Store,0,0,1,0,0,0,1,0,1,0,0,0,1,1
+35,Samsung,Authorized Retail Store,0,1,0,0,0,1,0,1,0,0,0,0,0,1
+35,Samsung,Authorized Retail Store,0,1,0,0,0,0,1,0,1,0,0,0,0,1
+35,Samsung,Authorized Retail Store,1,0,1,0,0,1,0,1,0,1,0,0,1,3
+35,Samsung,Authorized Retail Store,0,1,1,0,1,0,1,0,0,0,0,0,0,2
+35,Samsung,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,1,0,0,1
+36,Samsung,Authorized Retail Store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+36,Samsung,Authorized Retail Store,0,0,0,0,1,0,1,0,0,0,0,0,1,3
+36,Samsung,Authorized Retail Store,1,0,0,1,0,1,0,0,1,0,1,0,0,4
+36,Samsung,Authorized Retail Store,1,0,0,1,0,1,1,0,1,0,1,0,0,4
+36,Samsung,Authorized Retail Store,0,0,0,0,0,0,1,0,1,0,0,0,0,5
+36,Samsung,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,0,0,1,4
+36,Samsung,Authorized Retail Store,0,1,0,1,0,0,0,1,1,0,1,0,0,2
+36,Samsung,Authorized Retail Store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+36,Samsung,Authorized Retail Store,1,0,0,0,1,0,0,1,1,0,0,0,1,3
+36,Samsung,Authorized Retail Store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+36,Samsung,Authorized Retail Store,0,1,0,0,0,1,0,1,0,0,0,0,0,1
+36,Samsung,Authorized Retail Store,0,1,0,0,0,0,1,0,1,0,0,0,0,1
+36,Samsung,Authorized Retail Store,1,0,1,0,0,1,0,1,0,1,0,0,1,3
+36,Samsung,Authorized Retail Store,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+36,Samsung,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,1,0,0,3
+37,Samsung,Authorized Retail Store,0,1,1,0,1,0,0,1,1,0,0,1,0,1
+37,Samsung,Authorized Retail Store,0,0,0,0,1,0,1,0,0,0,0,0,1,4
+37,Samsung,Authorized Retail Store,1,0,0,1,0,1,0,0,1,0,1,0,0,5
+37,Samsung,Authorized Retail Store,1,0,0,1,0,1,1,0,1,0,1,0,0,5
+37,Samsung,Authorized Retail Store,0,0,0,0,0,0,1,0,1,0,0,0,0,5
+37,Samsung,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,0,0,1,5
+37,Samsung,Authorized Retail Store,0,1,0,1,0,0,0,1,1,0,1,0,0,1
+37,Samsung,Authorized Retail Store,0,0,1,0,0,1,1,0,0,1,1,0,0,5
+37,Samsung,Authorized Retail Store,1,0,0,0,1,0,0,1,1,0,0,0,1,5
+37,Samsung,Authorized Retail Store,0,0,1,0,0,0,1,0,1,0,0,0,1,5
+37,Samsung,Authorized Retail Store,0,1,0,0,0,1,0,1,0,0,0,0,0,2
+37,Samsung,Authorized Retail Store,0,1,0,0,0,0,1,0,1,0,0,0,0,2
+37,Samsung,Authorized Retail Store,1,0,1,0,0,1,0,1,0,1,0,0,1,5
+37,Samsung,Authorized Retail Store,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+37,Samsung,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,1,0,0,2
+38,Apple,Authorized Retail Store,0,1,1,0,1,0,0,1,1,0,0,1,0,5
+38,Apple,Authorized Retail Store,0,0,0,0,1,0,1,0,0,0,0,0,1,5
+38,Apple,Authorized Retail Store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+38,Apple,Authorized Retail Store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+38,Apple,Authorized Retail Store,0,0,0,0,0,0,1,0,1,0,0,0,0,3
+38,Apple,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+38,Apple,Authorized Retail Store,0,1,0,1,0,0,0,1,1,0,1,0,0,2
+38,Apple,Authorized Retail Store,0,0,1,0,0,1,1,0,0,1,1,0,0,2
+38,Apple,Authorized Retail Store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+38,Apple,Authorized Retail Store,0,0,1,0,0,0,1,0,1,0,0,0,1,3
+38,Apple,Authorized Retail Store,0,1,0,0,0,1,0,1,0,0,0,0,0,4
+38,Apple,Authorized Retail Store,0,1,0,0,0,0,1,0,1,0,0,0,0,4
+38,Apple,Authorized Retail Store,1,0,1,0,0,1,0,1,0,1,0,0,1,4
+38,Apple,Authorized Retail Store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+38,Apple,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+39,Others,Electronics store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+39,Others,Electronics store,0,0,0,0,1,0,1,0,0,0,0,0,1,2
+39,Others,Electronics store,1,0,0,1,0,1,0,0,1,0,1,0,0,4
+39,Others,Electronics store,1,0,0,1,0,1,1,0,1,0,1,0,0,4
+39,Others,Electronics store,0,0,0,0,0,0,1,0,1,0,0,0,0,2
+39,Others,Electronics store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+39,Others,Electronics store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+39,Others,Electronics store,0,0,1,0,0,1,1,0,0,1,1,0,0,5
+39,Others,Electronics store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+39,Others,Electronics store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+39,Others,Electronics store,0,1,0,0,0,1,0,1,0,0,0,0,0,2
+39,Others,Electronics store,0,1,0,0,0,0,1,0,1,0,0,0,0,2
+39,Others,Electronics store,1,0,1,0,0,1,0,1,0,1,0,0,1,2
+39,Others,Electronics store,0,1,1,0,1,0,1,0,0,0,0,0,0,2
+39,Others,Electronics store,0,0,1,0,1,0,0,0,1,0,1,0,0,3
+40,Samsung,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,4
+40,Samsung,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,3
+40,Samsung,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,2
+40,Samsung,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,5
+40,Samsung,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,5
+40,Samsung,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+40,Samsung,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,5
+40,Samsung,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,2
+40,Samsung,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+40,Samsung,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,4
+40,Samsung,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,4
+40,Samsung,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,4
+40,Samsung,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,2
+40,Samsung,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+40,Samsung,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,2
+41,Depends on the product not brand,Electronics store,0,1,1,0,1,0,0,1,1,0,0,1,0,1
+41,Depends on the product not brand,Electronics store,0,0,0,0,1,0,1,0,0,0,0,0,1,2
+41,Depends on the product not brand,Electronics store,1,0,0,1,0,1,0,0,1,0,1,0,0,2
+41,Depends on the product not brand,Electronics store,1,0,0,1,0,1,1,0,1,0,1,0,0,2
+41,Depends on the product not brand,Electronics store,0,0,0,0,0,0,1,0,1,0,0,0,0,3
+41,Depends on the product not brand,Electronics store,0,0,1,0,1,0,0,0,1,0,0,0,1,1
+41,Depends on the product not brand,Electronics store,0,1,0,1,0,0,0,1,1,0,1,0,0,1
+41,Depends on the product not brand,Electronics store,0,0,1,0,0,1,1,0,0,1,1,0,0,3
+41,Depends on the product not brand,Electronics store,1,0,0,0,1,0,0,1,1,0,0,0,1,3
+41,Depends on the product not brand,Electronics store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+41,Depends on the product not brand,Electronics store,0,1,0,0,0,1,0,1,0,0,0,0,0,2
+41,Depends on the product not brand,Electronics store,0,1,0,0,0,0,1,0,1,0,0,0,0,2
+41,Depends on the product not brand,Electronics store,1,0,1,0,0,1,0,1,0,1,0,0,1,1
+41,Depends on the product not brand,Electronics store,0,1,1,0,1,0,1,0,0,0,0,0,0,3
+41,Depends on the product not brand,Electronics store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+42,Samsung,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,1
+42,Samsung,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,5
+42,Samsung,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,5
+42,Samsung,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,5
+42,Samsung,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,5
+42,Samsung,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,5
+42,Samsung,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,5
+42,Samsung,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,5
+42,Samsung,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,5
+42,Samsung,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,5
+42,Samsung,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,5
+42,Samsung,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,5
+42,Samsung,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,5
+42,Samsung,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,5
+42,Samsung,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,5
+43,Depends on the product not brand,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,1
+43,Depends on the product not brand,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,1
+43,Depends on the product not brand,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,1
+43,Depends on the product not brand,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,1
+43,Depends on the product not brand,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,2
+43,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,1
+43,Depends on the product not brand,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,2
+43,Depends on the product not brand,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,3
+43,Depends on the product not brand,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+43,Depends on the product not brand,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,1
+43,Depends on the product not brand,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,1
+43,Depends on the product not brand,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,2
+43,Depends on the product not brand,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,2
+43,Depends on the product not brand,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+43,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,1
+44,Others,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,1
+44,Others,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,1
+44,Others,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+44,Others,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,1
+44,Others,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+44,Others,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+44,Others,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,1
+44,Others,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+44,Others,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+44,Others,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,3
+44,Others,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,1
+44,Others,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,1
+44,Others,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,1
+44,Others,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,3
+44,Others,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+45,Samsung,Electronics store,0,1,1,0,1,0,0,1,1,0,0,1,0,4
+45,Samsung,Electronics store,0,0,0,0,1,0,1,0,0,0,0,0,1,3
+45,Samsung,Electronics store,1,0,0,1,0,1,0,0,1,0,1,0,0,5
+45,Samsung,Electronics store,1,0,0,1,0,1,1,0,1,0,1,0,0,5
+45,Samsung,Electronics store,0,0,0,0,0,0,1,0,1,0,0,0,0,5
+45,Samsung,Electronics store,0,0,1,0,1,0,0,0,1,0,0,0,1,5
+45,Samsung,Electronics store,0,1,0,1,0,0,0,1,1,0,1,0,0,2
+45,Samsung,Electronics store,0,0,1,0,0,1,1,0,0,1,1,0,0,5
+45,Samsung,Electronics store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+45,Samsung,Electronics store,0,0,1,0,0,0,1,0,1,0,0,0,1,1
+45,Samsung,Electronics store,0,1,0,0,0,1,0,1,0,0,0,0,0,3
+45,Samsung,Electronics store,0,1,0,0,0,0,1,0,1,0,0,0,0,4
+45,Samsung,Electronics store,1,0,1,0,0,1,0,1,0,1,0,0,1,3
+45,Samsung,Electronics store,0,1,1,0,1,0,1,0,0,0,0,0,0,2
+45,Samsung,Electronics store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+46,Apple,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+46,Apple,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,3
+46,Apple,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,4
+46,Apple,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,4
+46,Apple,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+46,Apple,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+46,Apple,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,4
+46,Apple,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+46,Apple,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+46,Apple,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+46,Apple,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,5
+46,Apple,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,5
+46,Apple,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,3
+46,Apple,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,5
+46,Apple,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,3
+47,Apple,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+47,Apple,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,2
+47,Apple,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,4
+47,Apple,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,5
+47,Apple,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,5
+47,Apple,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,3
+47,Apple,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+47,Apple,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,5
+47,Apple,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,3
+47,Apple,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,3
+47,Apple,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,4
+47,Apple,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,3
+47,Apple,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,4
+47,Apple,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+47,Apple,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+48,Depends on the product not brand,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,1
+48,Depends on the product not brand,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,3
+48,Depends on the product not brand,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,1
+48,Depends on the product not brand,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,2
+48,Depends on the product not brand,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,5
+48,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+48,Depends on the product not brand,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,1
+48,Depends on the product not brand,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,5
+48,Depends on the product not brand,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+48,Depends on the product not brand,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,1
+48,Depends on the product not brand,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,1
+48,Depends on the product not brand,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,1
+48,Depends on the product not brand,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,1
+48,Depends on the product not brand,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+48,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,1
+49,Depends on the product not brand,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,1
+49,Depends on the product not brand,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,1
+49,Depends on the product not brand,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,2
+49,Depends on the product not brand,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+49,Depends on the product not brand,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+49,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,1
+49,Depends on the product not brand,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,2
+49,Depends on the product not brand,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,5
+49,Depends on the product not brand,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+49,Depends on the product not brand,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,3
+49,Depends on the product not brand,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,1
+49,Depends on the product not brand,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,4
+49,Depends on the product not brand,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,4
+49,Depends on the product not brand,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+49,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,2
+50,Others,Electronics store,0,1,1,0,1,0,0,1,1,0,0,1,0,4
+50,Others,Electronics store,0,0,0,0,1,0,1,0,0,0,0,0,1,2
+50,Others,Electronics store,1,0,0,1,0,1,0,0,1,0,1,0,0,4
+50,Others,Electronics store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+50,Others,Electronics store,0,0,0,0,0,0,1,0,1,0,0,0,0,2
+50,Others,Electronics store,0,0,1,0,1,0,0,0,1,0,0,0,1,3
+50,Others,Electronics store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+50,Others,Electronics store,0,0,1,0,0,1,1,0,0,1,1,0,0,2
+50,Others,Electronics store,1,0,0,0,1,0,0,1,1,0,0,0,1,4
+50,Others,Electronics store,0,0,1,0,0,0,1,0,1,0,0,0,1,3
+50,Others,Electronics store,0,1,0,0,0,1,0,1,0,0,0,0,0,4
+50,Others,Electronics store,0,1,0,0,0,0,1,0,1,0,0,0,0,4
+50,Others,Electronics store,1,0,1,0,0,1,0,1,0,1,0,0,1,4
+50,Others,Electronics store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+50,Others,Electronics store,0,0,1,0,1,0,0,0,1,0,1,0,0,2
+51,Depends on the product not brand,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+51,Depends on the product not brand,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,2
+51,Depends on the product not brand,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,2
+51,Depends on the product not brand,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+51,Depends on the product not brand,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+51,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+51,Depends on the product not brand,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,4
+51,Depends on the product not brand,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,5
+51,Depends on the product not brand,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,3
+51,Depends on the product not brand,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+51,Depends on the product not brand,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,3
+51,Depends on the product not brand,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,4
+51,Depends on the product not brand,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,2
+51,Depends on the product not brand,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+51,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+52,Apple,Authorized Retail Store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+52,Apple,Authorized Retail Store,0,0,0,0,1,0,1,0,0,0,0,0,1,4
+52,Apple,Authorized Retail Store,1,0,0,1,0,1,0,0,1,0,1,0,0,5
+52,Apple,Authorized Retail Store,1,0,0,1,0,1,1,0,1,0,1,0,0,4
+52,Apple,Authorized Retail Store,0,0,0,0,0,0,1,0,1,0,0,0,0,5
+52,Apple,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,0,0,1,4
+52,Apple,Authorized Retail Store,0,1,0,1,0,0,0,1,1,0,1,0,0,4
+52,Apple,Authorized Retail Store,0,0,1,0,0,1,1,0,0,1,1,0,0,5
+52,Apple,Authorized Retail Store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+52,Apple,Authorized Retail Store,0,0,1,0,0,0,1,0,1,0,0,0,1,3
+52,Apple,Authorized Retail Store,0,1,0,0,0,1,0,1,0,0,0,0,0,3
+52,Apple,Authorized Retail Store,0,1,0,0,0,0,1,0,1,0,0,0,0,3
+52,Apple,Authorized Retail Store,1,0,1,0,0,1,0,1,0,1,0,0,1,3
+52,Apple,Authorized Retail Store,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+52,Apple,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,1,0,0,2
+53,Samsung,Authorized Retail Store,0,1,1,0,1,0,0,1,1,0,0,1,0,1
+53,Samsung,Authorized Retail Store,0,0,0,0,1,0,1,0,0,0,0,0,1,1
+53,Samsung,Authorized Retail Store,1,0,0,1,0,1,0,0,1,0,1,0,0,2
+53,Samsung,Authorized Retail Store,1,0,0,1,0,1,1,0,1,0,1,0,0,2
+53,Samsung,Authorized Retail Store,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+53,Samsung,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,0,0,1,1
+53,Samsung,Authorized Retail Store,0,1,0,1,0,0,0,1,1,0,1,0,0,2
+53,Samsung,Authorized Retail Store,0,0,1,0,0,1,1,0,0,1,1,0,0,5
+53,Samsung,Authorized Retail Store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+53,Samsung,Authorized Retail Store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+53,Samsung,Authorized Retail Store,0,1,0,0,0,1,0,1,0,0,0,0,0,2
+53,Samsung,Authorized Retail Store,0,1,0,0,0,0,1,0,1,0,0,0,0,2
+53,Samsung,Authorized Retail Store,1,0,1,0,0,1,0,1,0,1,0,0,1,3
+53,Samsung,Authorized Retail Store,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+53,Samsung,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,1,0,0,2
+54,Others,Authorized Retail Store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+54,Others,Authorized Retail Store,0,0,0,0,1,0,1,0,0,0,0,0,1,2
+54,Others,Authorized Retail Store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+54,Others,Authorized Retail Store,1,0,0,1,0,1,1,0,1,0,1,0,0,2
+54,Others,Authorized Retail Store,0,0,0,0,0,0,1,0,1,0,0,0,0,3
+54,Others,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+54,Others,Authorized Retail Store,0,1,0,1,0,0,0,1,1,0,1,0,0,2
+54,Others,Authorized Retail Store,0,0,1,0,0,1,1,0,0,1,1,0,0,3
+54,Others,Authorized Retail Store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+54,Others,Authorized Retail Store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+54,Others,Authorized Retail Store,0,1,0,0,0,1,0,1,0,0,0,0,0,2
+54,Others,Authorized Retail Store,0,1,0,0,0,0,1,0,1,0,0,0,0,3
+54,Others,Authorized Retail Store,1,0,1,0,0,1,0,1,0,1,0,0,1,2
+54,Others,Authorized Retail Store,0,1,1,0,1,0,1,0,0,0,0,0,0,3
+54,Others,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,1,0,0,2
+55,Depends on the product not brand,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+55,Depends on the product not brand,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,1
+55,Depends on the product not brand,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+55,Depends on the product not brand,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+55,Depends on the product not brand,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,2
+55,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,1
+55,Depends on the product not brand,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,2
+55,Depends on the product not brand,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,3
+55,Depends on the product not brand,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+55,Depends on the product not brand,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+55,Depends on the product not brand,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,2
+55,Depends on the product not brand,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,4
+55,Depends on the product not brand,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,1
+55,Depends on the product not brand,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+55,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,2
+56,Apple,Electronics store,0,1,1,0,1,0,0,1,1,0,0,1,0,5
+56,Apple,Electronics store,0,0,0,0,1,0,1,0,0,0,0,0,1,4
+56,Apple,Electronics store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+56,Apple,Electronics store,1,0,0,1,0,1,1,0,1,0,1,0,0,4
+56,Apple,Electronics store,0,0,0,0,0,0,1,0,1,0,0,0,0,3
+56,Apple,Electronics store,0,0,1,0,1,0,0,0,1,0,0,0,1,4
+56,Apple,Electronics store,0,1,0,1,0,0,0,1,1,0,1,0,0,2
+56,Apple,Electronics store,0,0,1,0,0,1,1,0,0,1,1,0,0,5
+56,Apple,Electronics store,1,0,0,0,1,0,0,1,1,0,0,0,1,4
+56,Apple,Electronics store,0,0,1,0,0,0,1,0,1,0,0,0,1,4
+56,Apple,Electronics store,0,1,0,0,0,1,0,1,0,0,0,0,0,3
+56,Apple,Electronics store,0,1,0,0,0,0,1,0,1,0,0,0,0,2
+56,Apple,Electronics store,1,0,1,0,0,1,0,1,0,1,0,0,1,4
+56,Apple,Electronics store,0,1,1,0,1,0,1,0,0,0,0,0,0,3
+56,Apple,Electronics store,0,0,1,0,1,0,0,0,1,0,1,0,0,3
+57,Others,Authorized Retail Store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+57,Others,Authorized Retail Store,0,0,0,0,1,0,1,0,0,0,0,0,1,2
+57,Others,Authorized Retail Store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+57,Others,Authorized Retail Store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+57,Others,Authorized Retail Store,0,0,0,0,0,0,1,0,1,0,0,0,0,5
+57,Others,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+57,Others,Authorized Retail Store,0,1,0,1,0,0,0,1,1,0,1,0,0,2
+57,Others,Authorized Retail Store,0,0,1,0,0,1,1,0,0,1,1,0,0,3
+57,Others,Authorized Retail Store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+57,Others,Authorized Retail Store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+57,Others,Authorized Retail Store,0,1,0,0,0,1,0,1,0,0,0,0,0,4
+57,Others,Authorized Retail Store,0,1,0,0,0,0,1,0,1,0,0,0,0,4
+57,Others,Authorized Retail Store,1,0,1,0,0,1,0,1,0,1,0,0,1,2
+57,Others,Authorized Retail Store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+57,Others,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,1,0,0,3
+58,Depends on the product not brand,Authorized Retail Store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+58,Depends on the product not brand,Authorized Retail Store,0,0,0,0,1,0,1,0,0,0,0,0,1,3
+58,Depends on the product not brand,Authorized Retail Store,1,0,0,1,0,1,0,0,1,0,1,0,0,4
+58,Depends on the product not brand,Authorized Retail Store,1,0,0,1,0,1,1,0,1,0,1,0,0,4
+58,Depends on the product not brand,Authorized Retail Store,0,0,0,0,0,0,1,0,1,0,0,0,0,5
+58,Depends on the product not brand,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,0,0,1,3
+58,Depends on the product not brand,Authorized Retail Store,0,1,0,1,0,0,0,1,1,0,1,0,0,2
+58,Depends on the product not brand,Authorized Retail Store,0,0,1,0,0,1,1,0,0,1,1,0,0,2
+58,Depends on the product not brand,Authorized Retail Store,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+58,Depends on the product not brand,Authorized Retail Store,0,0,1,0,0,0,1,0,1,0,0,0,1,1
+58,Depends on the product not brand,Authorized Retail Store,0,1,0,0,0,1,0,1,0,0,0,0,0,4
+58,Depends on the product not brand,Authorized Retail Store,0,1,0,0,0,0,1,0,1,0,0,0,0,3
+58,Depends on the product not brand,Authorized Retail Store,1,0,1,0,0,1,0,1,0,1,0,0,1,1
+58,Depends on the product not brand,Authorized Retail Store,0,1,1,0,1,0,1,0,0,0,0,0,0,3
+58,Depends on the product not brand,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,1,0,0,2
+59,Depends on the product not brand,Electronics store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+59,Depends on the product not brand,Electronics store,0,0,0,0,1,0,1,0,0,0,0,0,1,3
+59,Depends on the product not brand,Electronics store,1,0,0,1,0,1,0,0,1,0,1,0,0,1
+59,Depends on the product not brand,Electronics store,1,0,0,1,0,1,1,0,1,0,1,0,0,2
+59,Depends on the product not brand,Electronics store,0,0,0,0,0,0,1,0,1,0,0,0,0,3
+59,Depends on the product not brand,Electronics store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+59,Depends on the product not brand,Electronics store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+59,Depends on the product not brand,Electronics store,0,0,1,0,0,1,1,0,0,1,1,0,0,5
+59,Depends on the product not brand,Electronics store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+59,Depends on the product not brand,Electronics store,0,0,1,0,0,0,1,0,1,0,0,0,1,3
+59,Depends on the product not brand,Electronics store,0,1,0,0,0,1,0,1,0,0,0,0,0,4
+59,Depends on the product not brand,Electronics store,0,1,0,0,0,0,1,0,1,0,0,0,0,3
+59,Depends on the product not brand,Electronics store,1,0,1,0,0,1,0,1,0,1,0,0,1,4
+59,Depends on the product not brand,Electronics store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+59,Depends on the product not brand,Electronics store,0,0,1,0,1,0,0,0,1,0,1,0,0,3
+60,Samsung,Electronics store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+60,Samsung,Electronics store,0,0,0,0,1,0,1,0,0,0,0,0,1,1
+60,Samsung,Electronics store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+60,Samsung,Electronics store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+60,Samsung,Electronics store,0,0,0,0,0,0,1,0,1,0,0,0,0,5
+60,Samsung,Electronics store,0,0,1,0,1,0,0,0,1,0,0,0,1,3
+60,Samsung,Electronics store,0,1,0,1,0,0,0,1,1,0,1,0,0,2
+60,Samsung,Electronics store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+60,Samsung,Electronics store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+60,Samsung,Electronics store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+60,Samsung,Electronics store,0,1,0,0,0,1,0,1,0,0,0,0,0,2
+60,Samsung,Electronics store,0,1,0,0,0,0,1,0,1,0,0,0,0,2
+60,Samsung,Electronics store,1,0,1,0,0,1,0,1,0,1,0,0,1,2
+60,Samsung,Electronics store,0,1,1,0,1,0,1,0,0,0,0,0,0,2
+60,Samsung,Electronics store,0,0,1,0,1,0,0,0,1,0,1,0,0,2
+61,Others,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+61,Others,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,3
+61,Others,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+61,Others,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+61,Others,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,5
+61,Others,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,3
+61,Others,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+61,Others,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,3
+61,Others,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,3
+61,Others,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,3
+61,Others,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,5
+61,Others,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,5
+61,Others,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,3
+61,Others,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,5
+61,Others,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,3
+62,Others,Electronics store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+62,Others,Electronics store,0,0,0,0,1,0,1,0,0,0,0,0,1,2
+62,Others,Electronics store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+62,Others,Electronics store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+62,Others,Electronics store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+62,Others,Electronics store,0,0,1,0,1,0,0,0,1,0,0,0,1,3
+62,Others,Electronics store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+62,Others,Electronics store,0,0,1,0,0,1,1,0,0,1,1,0,0,3
+62,Others,Electronics store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+62,Others,Electronics store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+62,Others,Electronics store,0,1,0,0,0,1,0,1,0,0,0,0,0,3
+62,Others,Electronics store,0,1,0,0,0,0,1,0,1,0,0,0,0,2
+62,Others,Electronics store,1,0,1,0,0,1,0,1,0,1,0,0,1,2
+62,Others,Electronics store,0,1,1,0,1,0,1,0,0,0,0,0,0,2
+62,Others,Electronics store,0,0,1,0,1,0,0,0,1,0,1,0,0,3
+63,Samsung,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+63,Samsung,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,1
+63,Samsung,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,5
+63,Samsung,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,4
+63,Samsung,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+63,Samsung,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,1
+63,Samsung,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,4
+63,Samsung,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+63,Samsung,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+63,Samsung,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,3
+63,Samsung,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,3
+63,Samsung,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,4
+63,Samsung,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,3
+63,Samsung,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+63,Samsung,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+64,Others,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+64,Others,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,2
+64,Others,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+64,Others,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+64,Others,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+64,Others,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+64,Others,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,2
+64,Others,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,3
+64,Others,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+64,Others,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+64,Others,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,3
+64,Others,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,2
+64,Others,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,2
+64,Others,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,2
+64,Others,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,3
+65,Depends on the product not brand,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+65,Depends on the product not brand,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,2
+65,Depends on the product not brand,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+65,Depends on the product not brand,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+65,Depends on the product not brand,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+65,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,3
+65,Depends on the product not brand,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,2
+65,Depends on the product not brand,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+65,Depends on the product not brand,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+65,Depends on the product not brand,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+65,Depends on the product not brand,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,3
+65,Depends on the product not brand,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,2
+65,Depends on the product not brand,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,4
+65,Depends on the product not brand,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,3
+65,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+66,Depends on the product not brand,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+66,Depends on the product not brand,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,2
+66,Depends on the product not brand,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+66,Depends on the product not brand,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,2
+66,Depends on the product not brand,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,2
+66,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+66,Depends on the product not brand,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,2
+66,Depends on the product not brand,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,2
+66,Depends on the product not brand,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+66,Depends on the product not brand,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,1
+66,Depends on the product not brand,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,1
+66,Depends on the product not brand,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,3
+66,Depends on the product not brand,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,2
+66,Depends on the product not brand,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+66,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,1
+67,Apple,Electronics store,0,1,1,0,1,0,0,1,1,0,0,1,0,4
+67,Apple,Electronics store,0,0,0,0,1,0,1,0,0,0,0,0,1,3
+67,Apple,Electronics store,1,0,0,1,0,1,0,0,1,0,1,0,0,4
+67,Apple,Electronics store,1,0,0,1,0,1,1,0,1,0,1,0,0,4
+67,Apple,Electronics store,0,0,0,0,0,0,1,0,1,0,0,0,0,5
+67,Apple,Electronics store,0,0,1,0,1,0,0,0,1,0,0,0,1,3
+67,Apple,Electronics store,0,1,0,1,0,0,0,1,1,0,1,0,0,4
+67,Apple,Electronics store,0,0,1,0,0,1,1,0,0,1,1,0,0,3
+67,Apple,Electronics store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+67,Apple,Electronics store,0,0,1,0,0,0,1,0,1,0,0,0,1,4
+67,Apple,Electronics store,0,1,0,0,0,1,0,1,0,0,0,0,0,2
+67,Apple,Electronics store,0,1,0,0,0,0,1,0,1,0,0,0,0,5
+67,Apple,Electronics store,1,0,1,0,0,1,0,1,0,1,0,0,1,4
+67,Apple,Electronics store,0,1,1,0,1,0,1,0,0,0,0,0,0,3
+67,Apple,Electronics store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+68,Apple,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+68,Apple,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,4
+68,Apple,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+68,Apple,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,4
+68,Apple,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+68,Apple,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,4
+68,Apple,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,2
+68,Apple,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+68,Apple,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,3
+68,Apple,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,4
+68,Apple,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,3
+68,Apple,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,3
+68,Apple,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,3
+68,Apple,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,3
+68,Apple,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+69,Apple,Electronics store,0,1,1,0,1,0,0,1,1,0,0,1,0,5
+69,Apple,Electronics store,0,0,0,0,1,0,1,0,0,0,0,0,1,5
+69,Apple,Electronics store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+69,Apple,Electronics store,1,0,0,1,0,1,1,0,1,0,1,0,0,5
+69,Apple,Electronics store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+69,Apple,Electronics store,0,0,1,0,1,0,0,0,1,0,0,0,1,4
+69,Apple,Electronics store,0,1,0,1,0,0,0,1,1,0,1,0,0,4
+69,Apple,Electronics store,0,0,1,0,0,1,1,0,0,1,1,0,0,3
+69,Apple,Electronics store,1,0,0,0,1,0,0,1,1,0,0,0,1,3
+69,Apple,Electronics store,0,0,1,0,0,0,1,0,1,0,0,0,1,4
+69,Apple,Electronics store,0,1,0,0,0,1,0,1,0,0,0,0,0,3
+69,Apple,Electronics store,0,1,0,0,0,0,1,0,1,0,0,0,0,4
+69,Apple,Electronics store,1,0,1,0,0,1,0,1,0,1,0,0,1,3
+69,Apple,Electronics store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+69,Apple,Electronics store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+70,Apple,Authorized Retail Store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+70,Apple,Authorized Retail Store,0,0,0,0,1,0,1,0,0,0,0,0,1,4
+70,Apple,Authorized Retail Store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+70,Apple,Authorized Retail Store,1,0,0,1,0,1,1,0,1,0,1,0,0,4
+70,Apple,Authorized Retail Store,0,0,0,0,0,0,1,0,1,0,0,0,0,5
+70,Apple,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+70,Apple,Authorized Retail Store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+70,Apple,Authorized Retail Store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+70,Apple,Authorized Retail Store,1,0,0,0,1,0,0,1,1,0,0,0,1,4
+70,Apple,Authorized Retail Store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+70,Apple,Authorized Retail Store,0,1,0,0,0,1,0,1,0,0,0,0,0,5
+70,Apple,Authorized Retail Store,0,1,0,0,0,0,1,0,1,0,0,0,0,4
+70,Apple,Authorized Retail Store,1,0,1,0,0,1,0,1,0,1,0,0,1,4
+70,Apple,Authorized Retail Store,0,1,1,0,1,0,1,0,0,0,0,0,0,5
+70,Apple,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+71,Depends on the product not brand,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+71,Depends on the product not brand,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,2
+71,Depends on the product not brand,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,4
+71,Depends on the product not brand,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,5
+71,Depends on the product not brand,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,5
+71,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+71,Depends on the product not brand,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+71,Depends on the product not brand,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+71,Depends on the product not brand,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+71,Depends on the product not brand,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+71,Depends on the product not brand,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,3
+71,Depends on the product not brand,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,3
+71,Depends on the product not brand,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,2
+71,Depends on the product not brand,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,3
+71,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,2
+72,Samsung,Authorized Retail Store,0,1,1,0,1,0,0,1,1,0,0,1,0,1
+72,Samsung,Authorized Retail Store,0,0,0,0,1,0,1,0,0,0,0,0,1,1
+72,Samsung,Authorized Retail Store,1,0,0,1,0,1,0,0,1,0,1,0,0,2
+72,Samsung,Authorized Retail Store,1,0,0,1,0,1,1,0,1,0,1,0,0,4
+72,Samsung,Authorized Retail Store,0,0,0,0,0,0,1,0,1,0,0,0,0,2
+72,Samsung,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,0,0,1,1
+72,Samsung,Authorized Retail Store,0,1,0,1,0,0,0,1,1,0,1,0,0,1
+72,Samsung,Authorized Retail Store,0,0,1,0,0,1,1,0,0,1,1,0,0,2
+72,Samsung,Authorized Retail Store,1,0,0,0,1,0,0,1,1,0,0,0,1,3
+72,Samsung,Authorized Retail Store,0,0,1,0,0,0,1,0,1,0,0,0,1,1
+72,Samsung,Authorized Retail Store,0,1,0,0,0,1,0,1,0,0,0,0,0,2
+72,Samsung,Authorized Retail Store,0,1,0,0,0,0,1,0,1,0,0,0,0,4
+72,Samsung,Authorized Retail Store,1,0,1,0,0,1,0,1,0,1,0,0,1,2
+72,Samsung,Authorized Retail Store,0,1,1,0,1,0,1,0,0,0,0,0,0,2
+72,Samsung,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,1,0,0,3
+73,Depends on the product not brand,Electronics store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+73,Depends on the product not brand,Electronics store,0,0,0,0,1,0,1,0,0,0,0,0,1,1
+73,Depends on the product not brand,Electronics store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+73,Depends on the product not brand,Electronics store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+73,Depends on the product not brand,Electronics store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+73,Depends on the product not brand,Electronics store,0,0,1,0,1,0,0,0,1,0,0,0,1,1
+73,Depends on the product not brand,Electronics store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+73,Depends on the product not brand,Electronics store,0,0,1,0,0,1,1,0,0,1,1,0,0,2
+73,Depends on the product not brand,Electronics store,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+73,Depends on the product not brand,Electronics store,0,0,1,0,0,0,1,0,1,0,0,0,1,1
+73,Depends on the product not brand,Electronics store,0,1,0,0,0,1,0,1,0,0,0,0,0,3
+73,Depends on the product not brand,Electronics store,0,1,0,0,0,0,1,0,1,0,0,0,0,3
+73,Depends on the product not brand,Electronics store,1,0,1,0,0,1,0,1,0,1,0,0,1,1
+73,Depends on the product not brand,Electronics store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+73,Depends on the product not brand,Electronics store,0,0,1,0,1,0,0,0,1,0,1,0,0,3
+74,Apple,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+74,Apple,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,4
+74,Apple,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+74,Apple,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+74,Apple,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+74,Apple,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,3
+74,Apple,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+74,Apple,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+74,Apple,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+74,Apple,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,4
+74,Apple,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,3
+74,Apple,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,3
+74,Apple,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,3
+74,Apple,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,3
+74,Apple,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+75,Others,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+75,Others,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,2
+75,Others,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,4
+75,Others,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,5
+75,Others,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,5
+75,Others,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,4
+75,Others,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,1
+75,Others,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,3
+75,Others,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+75,Others,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,1
+75,Others,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,5
+75,Others,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,5
+75,Others,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,4
+75,Others,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+75,Others,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,5
+76,Others,Authorized Retail Store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+76,Others,Authorized Retail Store,0,0,0,0,1,0,1,0,0,0,0,0,1,4
+76,Others,Authorized Retail Store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+76,Others,Authorized Retail Store,1,0,0,1,0,1,1,0,1,0,1,0,0,2
+76,Others,Authorized Retail Store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+76,Others,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,0,0,1,4
+76,Others,Authorized Retail Store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+76,Others,Authorized Retail Store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+76,Others,Authorized Retail Store,1,0,0,0,1,0,0,1,1,0,0,0,1,3
+76,Others,Authorized Retail Store,0,0,1,0,0,0,1,0,1,0,0,0,1,4
+76,Others,Authorized Retail Store,0,1,0,0,0,1,0,1,0,0,0,0,0,3
+76,Others,Authorized Retail Store,0,1,0,0,0,0,1,0,1,0,0,0,0,2
+76,Others,Authorized Retail Store,1,0,1,0,0,1,0,1,0,1,0,0,1,3
+76,Others,Authorized Retail Store,0,1,1,0,1,0,1,0,0,0,0,0,0,2
+76,Others,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+77,Others,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,1
+77,Others,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,1
+77,Others,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,1
+77,Others,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,1
+77,Others,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+77,Others,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,1
+77,Others,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,1
+77,Others,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,1
+77,Others,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+77,Others,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,1
+77,Others,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,1
+77,Others,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,1
+77,Others,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,1
+77,Others,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+77,Others,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,1
+78,Apple,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,1
+78,Apple,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,4
+78,Apple,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,1
+78,Apple,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,1
+78,Apple,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+78,Apple,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,4
+78,Apple,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,1
+78,Apple,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+78,Apple,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+78,Apple,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,5
+78,Apple,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,1
+78,Apple,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,1
+78,Apple,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,1
+78,Apple,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+78,Apple,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,1
+79,Others,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+79,Others,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,2
+79,Others,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+79,Others,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+79,Others,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,3
+79,Others,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,3
+79,Others,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,4
+79,Others,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,3
+79,Others,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+79,Others,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+79,Others,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,3
+79,Others,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,4
+79,Others,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,2
+79,Others,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,3
+79,Others,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,3
+80,Others,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+80,Others,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,3
+80,Others,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+80,Others,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+80,Others,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+80,Others,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,4
+80,Others,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+80,Others,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+80,Others,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,3
+80,Others,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,4
+80,Others,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,3
+80,Others,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,3
+80,Others,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,3
+80,Others,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,3
+80,Others,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+81,Depends on the product not brand,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,1
+81,Depends on the product not brand,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,2
+81,Depends on the product not brand,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,2
+81,Depends on the product not brand,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+81,Depends on the product not brand,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+81,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+81,Depends on the product not brand,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+81,Depends on the product not brand,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,3
+81,Depends on the product not brand,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+81,Depends on the product not brand,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,1
+81,Depends on the product not brand,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,2
+81,Depends on the product not brand,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,5
+81,Depends on the product not brand,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,2
+81,Depends on the product not brand,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,3
+81,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,3
+82,Depends on the product not brand,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+82,Depends on the product not brand,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,2
+82,Depends on the product not brand,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,4
+82,Depends on the product not brand,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,4
+82,Depends on the product not brand,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+82,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+82,Depends on the product not brand,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,4
+82,Depends on the product not brand,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,4
+82,Depends on the product not brand,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,3
+82,Depends on the product not brand,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,3
+82,Depends on the product not brand,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,4
+82,Depends on the product not brand,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,4
+82,Depends on the product not brand,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,4
+82,Depends on the product not brand,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,3
+82,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,1
+83,Apple,Electronics store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+83,Apple,Electronics store,0,0,0,0,1,0,1,0,0,0,0,0,1,3
+83,Apple,Electronics store,1,0,0,1,0,1,0,0,1,0,1,0,0,1
+83,Apple,Electronics store,1,0,0,1,0,1,1,0,1,0,1,0,0,2
+83,Apple,Electronics store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+83,Apple,Electronics store,0,0,1,0,1,0,0,0,1,0,0,0,1,4
+83,Apple,Electronics store,0,1,0,1,0,0,0,1,1,0,1,0,0,2
+83,Apple,Electronics store,0,0,1,0,0,1,1,0,0,1,1,0,0,2
+83,Apple,Electronics store,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+83,Apple,Electronics store,0,0,1,0,0,0,1,0,1,0,0,0,1,4
+83,Apple,Electronics store,0,1,0,0,0,1,0,1,0,0,0,0,0,2
+83,Apple,Electronics store,0,1,0,0,0,0,1,0,1,0,0,0,0,3
+83,Apple,Electronics store,1,0,1,0,0,1,0,1,0,1,0,0,1,4
+83,Apple,Electronics store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+83,Apple,Electronics store,0,0,1,0,1,0,0,0,1,0,1,0,0,3
+84,Apple,Authorized Retail Store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+84,Apple,Authorized Retail Store,0,0,0,0,1,0,1,0,0,0,0,0,1,3
+84,Apple,Authorized Retail Store,1,0,0,1,0,1,0,0,1,0,1,0,0,4
+84,Apple,Authorized Retail Store,1,0,0,1,0,1,1,0,1,0,1,0,0,4
+84,Apple,Authorized Retail Store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+84,Apple,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,0,0,1,3
+84,Apple,Authorized Retail Store,0,1,0,1,0,0,0,1,1,0,1,0,0,2
+84,Apple,Authorized Retail Store,0,0,1,0,0,1,1,0,0,1,1,0,0,3
+84,Apple,Authorized Retail Store,1,0,0,0,1,0,0,1,1,0,0,0,1,4
+84,Apple,Authorized Retail Store,0,0,1,0,0,0,1,0,1,0,0,0,1,4
+84,Apple,Authorized Retail Store,0,1,0,0,0,1,0,1,0,0,0,0,0,4
+84,Apple,Authorized Retail Store,0,1,0,0,0,0,1,0,1,0,0,0,0,4
+84,Apple,Authorized Retail Store,1,0,1,0,0,1,0,1,0,1,0,0,1,4
+84,Apple,Authorized Retail Store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+84,Apple,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+85,Apple,Authorized Retail Store,0,1,1,0,1,0,0,1,1,0,0,1,0,4
+85,Apple,Authorized Retail Store,0,0,0,0,1,0,1,0,0,0,0,0,1,3
+85,Apple,Authorized Retail Store,1,0,0,1,0,1,0,0,1,0,1,0,0,5
+85,Apple,Authorized Retail Store,1,0,0,1,0,1,1,0,1,0,1,0,0,5
+85,Apple,Authorized Retail Store,0,0,0,0,0,0,1,0,1,0,0,0,0,3
+85,Apple,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,0,0,1,4
+85,Apple,Authorized Retail Store,0,1,0,1,0,0,0,1,1,0,1,0,0,5
+85,Apple,Authorized Retail Store,0,0,1,0,0,1,1,0,0,1,1,0,0,5
+85,Apple,Authorized Retail Store,1,0,0,0,1,0,0,1,1,0,0,0,1,3
+85,Apple,Authorized Retail Store,0,0,1,0,0,0,1,0,1,0,0,0,1,4
+85,Apple,Authorized Retail Store,0,1,0,0,0,1,0,1,0,0,0,0,0,4
+85,Apple,Authorized Retail Store,0,1,0,0,0,0,1,0,1,0,0,0,0,4
+85,Apple,Authorized Retail Store,1,0,1,0,0,1,0,1,0,1,0,0,1,3
+85,Apple,Authorized Retail Store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+85,Apple,Authorized Retail Store,0,0,1,0,1,0,0,0,1,0,1,0,0,4
+86,Depends on the product not brand,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+86,Depends on the product not brand,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,2
+86,Depends on the product not brand,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+86,Depends on the product not brand,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,4
+86,Depends on the product not brand,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,2
+86,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+86,Depends on the product not brand,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+86,Depends on the product not brand,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,2
+86,Depends on the product not brand,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,3
+86,Depends on the product not brand,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+86,Depends on the product not brand,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,5
+86,Depends on the product not brand,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,5
+86,Depends on the product not brand,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,3
+86,Depends on the product not brand,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+86,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,2
+87,Depends on the product not brand,Electronics store,0,1,1,0,1,0,0,1,1,0,0,1,0,2
+87,Depends on the product not brand,Electronics store,0,0,0,0,1,0,1,0,0,0,0,0,1,1
+87,Depends on the product not brand,Electronics store,1,0,0,1,0,1,0,0,1,0,1,0,0,2
+87,Depends on the product not brand,Electronics store,1,0,0,1,0,1,1,0,1,0,1,0,0,2
+87,Depends on the product not brand,Electronics store,0,0,0,0,0,0,1,0,1,0,0,0,0,2
+87,Depends on the product not brand,Electronics store,0,0,1,0,1,0,0,0,1,0,0,0,1,1
+87,Depends on the product not brand,Electronics store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+87,Depends on the product not brand,Electronics store,0,0,1,0,0,1,1,0,0,1,1,0,0,2
+87,Depends on the product not brand,Electronics store,1,0,0,0,1,0,0,1,1,0,0,0,1,2
+87,Depends on the product not brand,Electronics store,0,0,1,0,0,0,1,0,1,0,0,0,1,2
+87,Depends on the product not brand,Electronics store,0,1,0,0,0,1,0,1,0,0,0,0,0,3
+87,Depends on the product not brand,Electronics store,0,1,0,0,0,0,1,0,1,0,0,0,0,2
+87,Depends on the product not brand,Electronics store,1,0,1,0,0,1,0,1,0,1,0,0,1,2
+87,Depends on the product not brand,Electronics store,0,1,1,0,1,0,1,0,0,0,0,0,0,3
+87,Depends on the product not brand,Electronics store,0,0,1,0,1,0,0,0,1,0,1,0,0,1
+88,Depends on the product not brand,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+88,Depends on the product not brand,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,3
+88,Depends on the product not brand,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+88,Depends on the product not brand,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,3
+88,Depends on the product not brand,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,3
+88,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,3
+88,Depends on the product not brand,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+88,Depends on the product not brand,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,3
+88,Depends on the product not brand,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,3
+88,Depends on the product not brand,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,3
+88,Depends on the product not brand,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,3
+88,Depends on the product not brand,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,3
+88,Depends on the product not brand,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,4
+88,Depends on the product not brand,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,2
+88,Depends on the product not brand,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,3
+89,Samsung,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,4
+89,Samsung,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,3
+89,Samsung,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,4
+89,Samsung,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,5
+89,Samsung,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+89,Samsung,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,3
+89,Samsung,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+89,Samsung,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,5
+89,Samsung,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,4
+89,Samsung,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,3
+89,Samsung,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,5
+89,Samsung,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,3
+89,Samsung,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,3
+89,Samsung,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+89,Samsung,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,3
+90,Others,Online store,0,1,1,0,1,0,0,1,1,0,0,1,0,3
+90,Others,Online store,0,0,0,0,1,0,1,0,0,0,0,0,1,1
+90,Others,Online store,1,0,0,1,0,1,0,0,1,0,1,0,0,3
+90,Others,Online store,1,0,0,1,0,1,1,0,1,0,1,0,0,4
+90,Others,Online store,0,0,0,0,0,0,1,0,1,0,0,0,0,2
+90,Others,Online store,0,0,1,0,1,0,0,0,1,0,0,0,1,2
+90,Others,Online store,0,1,0,1,0,0,0,1,1,0,1,0,0,3
+90,Others,Online store,0,0,1,0,0,1,1,0,0,1,1,0,0,2
+90,Others,Online store,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+90,Others,Online store,0,0,1,0,0,0,1,0,1,0,0,0,1,1
+90,Others,Online store,0,1,0,0,0,1,0,1,0,0,0,0,0,3
+90,Others,Online store,0,1,0,0,0,0,1,0,1,0,0,0,0,4
+90,Others,Online store,1,0,1,0,0,1,0,1,0,1,0,0,1,2
+90,Others,Online store,0,1,1,0,1,0,1,0,0,0,0,0,0,3
+90,Others,Online store,0,0,1,0,1,0,0,0,1,0,1,0,0,3
